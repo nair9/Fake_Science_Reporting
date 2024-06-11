@@ -1,4 +1,6 @@
-# Fake_Science_Reporting
+# Detection of Fake Science Reporting 
+
+### Introduction
 
 In today's world, how people understand and use science affects many aspects of daily life. A clear example of this is the COVID-19 pandemic, where accurate information about vaccinations was often twisted to sway public opinion and behavior. This highlights the urgent need for effective ways to identify and combat misinformation, especially when it appears to be scientifically credible.
 
